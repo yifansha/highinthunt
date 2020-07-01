@@ -1,0 +1,12 @@
+Package: HIH
+Type: Package
+Title: High Order Interaction Variable Importance Through Random Forest
+Version: 0.1.5
+Author: Yifan Sha, Min Lu
+Maintainer: Yifan Sha <shayifan91@gmail.com>, Min Lu <luminwin@gmail.com>
+Description: Grows weighted random forests and finds high-order feature interactions according to the rank of high order interaction variable importance.
+Depends: randomForestSRC
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+NeedsCompilation: no
